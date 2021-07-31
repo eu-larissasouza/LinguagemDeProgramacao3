@@ -1,0 +1,16 @@
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Aula 7\bin\Debug\net5.0\Aula 7.exe
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Aula 7\bin\Debug\net5.0\Aula 7.deps.json
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Aula 7\bin\Debug\net5.0\Aula 7.runtimeconfig.json
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Aula 7\bin\Debug\net5.0\Aula 7.runtimeconfig.dev.json
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Aula 7\bin\Debug\net5.0\Aula 7.dll
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Aula 7\bin\Debug\net5.0\ref\Aula 7.dll
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Aula 7\bin\Debug\net5.0\Aula 7.pdb
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Aula 7\obj\Debug\net5.0\Aula 7.csproj.AssemblyReference.cache
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Aula 7\obj\Debug\net5.0\Aula 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Aula 7\obj\Debug\net5.0\Aula 7.AssemblyInfoInputs.cache
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Aula 7\obj\Debug\net5.0\Aula 7.AssemblyInfo.cs
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Aula 7\obj\Debug\net5.0\Aula 7.csproj.CoreCompileInputs.cache
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Aula 7\obj\Debug\net5.0\Aula 7.dll
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Aula 7\obj\Debug\net5.0\ref\Aula 7.dll
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Aula 7\obj\Debug\net5.0\Aula 7.pdb
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Aula 7\obj\Debug\net5.0\Aula 7.genruntimeconfig.cache
