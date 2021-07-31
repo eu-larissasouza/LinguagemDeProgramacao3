@@ -18,45 +18,25 @@ namespace Aula_7
         {
             return this.nome;
         }
-        public void setNome(string nome)
-        {
-            this.nome = nome;
-        }
 
         public string getSobrenome()
         {
             return this.sobrenome;
-        }
-        public void setSobrenome(string sobrenome)
-        {
-            this.sobrenome = sobrenome;
         }
 
         public byte getIdade()
         {
             return this.idade;
         }
-        public void setIdade(byte idade)
-        {
-            this.idade = idade;
-        }
 
         public float getAltura()
         {
             return this.altura;
         }
-        public void setAltura(float altura)
-        {
-            this.altura = altura;
-        }
 
         public float getPeso()
         {
             return this.peso;
-        }
-        public void setPeso(float peso)
-        {
-            this.peso = peso;
         }
 
     }
