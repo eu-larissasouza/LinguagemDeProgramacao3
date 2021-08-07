@@ -11,7 +11,7 @@ namespace Aula_7
         private string nome = "Larissa";
         private string sobrenome = "Souza";
         private byte idade = 17;
-        private float altura = 1.56F;
+        private float altura = 1.60F;
         private float peso = 55.5F;
 
         public string getNome()
