@@ -1,0 +1,16 @@
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\Lista 4\Exercicio 2\obj\Debug\net5.0\Exercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\Lista 4\Exercicio 2\obj\Debug\net5.0\Exercicio 2.AssemblyInfoInputs.cache
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\Lista 4\Exercicio 2\obj\Debug\net5.0\Exercicio 2.AssemblyInfo.cs
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\Lista 4\Exercicio 2\obj\Debug\net5.0\Exercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\Lista 4\Exercicio 2\bin\Debug\net5.0\Exercicio 2.exe
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\Lista 4\Exercicio 2\bin\Debug\net5.0\Exercicio 2.deps.json
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\Lista 4\Exercicio 2\bin\Debug\net5.0\Exercicio 2.runtimeconfig.json
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\Lista 4\Exercicio 2\bin\Debug\net5.0\Exercicio 2.runtimeconfig.dev.json
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\Lista 4\Exercicio 2\bin\Debug\net5.0\Exercicio 2.dll
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\Lista 4\Exercicio 2\bin\Debug\net5.0\ref\Exercicio 2.dll
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\Lista 4\Exercicio 2\bin\Debug\net5.0\Exercicio 2.pdb
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\Lista 4\Exercicio 2\obj\Debug\net5.0\Exercicio 2.dll
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\Lista 4\Exercicio 2\obj\Debug\net5.0\ref\Exercicio 2.dll
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\Lista 4\Exercicio 2\obj\Debug\net5.0\Exercicio 2.pdb
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\Lista 4\Exercicio 2\obj\Debug\net5.0\Exercicio 2.genruntimeconfig.cache
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\Lista 4\Exercicio 2\obj\Debug\net5.0\Exercicio 2.csproj.AssemblyReference.cache
