@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade7", "Atividade7\Atividade7.csproj", "{6409B9E5-1811-4CFB-9913-3D19C5B282DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade7", "Atividade7\Atividade7.csproj", "{6409B9E5-1811-4CFB-9913-3D19C5B282DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade8", "Atividade8\Atividade8.csproj", "{E01E264F-C21E-45AC-B027-4E6CE3E1EC3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade8", "Atividade8\Atividade8.csproj", "{E01E264F-C21E-45AC-B027-4E6CE3E1EC3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade10", "Atividade10\Atividade10.csproj", "{F4B375E7-F857-4842-AB88-2B17C72D1CD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade10", "Atividade10\Atividade10.csproj", "{F4B375E7-F857-4842-AB88-2B17C72D1CD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade11", "Atividade11\Atividade11.csproj", "{1A39C092-5446-4BB7-A74A-6A46E9BCE477}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{F4B375E7-F857-4842-AB88-2B17C72D1CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4B375E7-F857-4842-AB88-2B17C72D1CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4B375E7-F857-4842-AB88-2B17C72D1CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A39C092-5446-4BB7-A74A-6A46E9BCE477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A39C092-5446-4BB7-A74A-6A46E9BCE477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A39C092-5446-4BB7-A74A-6A46E9BCE477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A39C092-5446-4BB7-A74A-6A46E9BCE477}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
