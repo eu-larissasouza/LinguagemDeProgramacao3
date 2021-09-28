@@ -1,0 +1,15 @@
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade12\obj\Debug\net5.0\Atividade12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade12\obj\Debug\net5.0\Atividade12.AssemblyInfoInputs.cache
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade12\obj\Debug\net5.0\Atividade12.AssemblyInfo.cs
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade12\obj\Debug\net5.0\Atividade12.csproj.CoreCompileInputs.cache
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade12\bin\Debug\net5.0\Atividade12.exe
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade12\bin\Debug\net5.0\Atividade12.deps.json
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade12\bin\Debug\net5.0\Atividade12.runtimeconfig.json
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade12\bin\Debug\net5.0\Atividade12.runtimeconfig.dev.json
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade12\bin\Debug\net5.0\Atividade12.dll
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade12\bin\Debug\net5.0\ref\Atividade12.dll
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade12\bin\Debug\net5.0\Atividade12.pdb
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade12\obj\Debug\net5.0\Atividade12.dll
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade12\obj\Debug\net5.0\ref\Atividade12.dll
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade12\obj\Debug\net5.0\Atividade12.pdb
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade12\obj\Debug\net5.0\Atividade12.genruntimeconfig.cache
