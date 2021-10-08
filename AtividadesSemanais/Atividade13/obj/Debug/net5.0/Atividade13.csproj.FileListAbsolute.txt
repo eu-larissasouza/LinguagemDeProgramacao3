@@ -1,0 +1,16 @@
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade13\bin\Debug\net5.0\Atividade13.exe
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade13\bin\Debug\net5.0\Atividade13.deps.json
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade13\bin\Debug\net5.0\Atividade13.runtimeconfig.json
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade13\bin\Debug\net5.0\Atividade13.runtimeconfig.dev.json
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade13\bin\Debug\net5.0\Atividade13.dll
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade13\bin\Debug\net5.0\ref\Atividade13.dll
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade13\bin\Debug\net5.0\Atividade13.pdb
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade13\obj\Debug\net5.0\Atividade13.csproj.AssemblyReference.cache
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade13\obj\Debug\net5.0\Atividade13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade13\obj\Debug\net5.0\Atividade13.AssemblyInfoInputs.cache
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade13\obj\Debug\net5.0\Atividade13.AssemblyInfo.cs
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade13\obj\Debug\net5.0\Atividade13.csproj.CoreCompileInputs.cache
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade13\obj\Debug\net5.0\Atividade13.dll
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade13\obj\Debug\net5.0\ref\Atividade13.dll
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade13\obj\Debug\net5.0\Atividade13.pdb
+C:\Users\laris\OneDrive\Documentos\LARISSA\IFSP\3°ANO - 313\LinguagemDeProgramacao3\AtividadesSemanais\Atividade13\obj\Debug\net5.0\Atividade13.genruntimeconfig.cache

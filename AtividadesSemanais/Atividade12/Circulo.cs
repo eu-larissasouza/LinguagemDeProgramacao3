@@ -26,7 +26,7 @@ namespace Atividade12
 
         public override double calcularArea()
         {
-            return (raio * raio) * 3.14; ;
+            return (raio * raio) * 3.14;
         }
 
     }
